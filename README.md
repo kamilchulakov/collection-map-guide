@@ -10,6 +10,7 @@
 - [Map](#map)
   - [HashMap](#hashmap)
   - [TreeMap](#treemap)
+  - [LinkedHashMap](#linkedhashmap)
   - [Сравнение Map](#сравнение-map)
 
 ## Collection 
